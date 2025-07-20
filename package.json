@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Migara Jayasuriya",
+	"description": "A boilerplate project for learning npm package.json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
